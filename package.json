@@ -2,6 +2,7 @@
   "dependencies": {
     "axios": "^1.8.4",
     "discord.js": "^14.18.0",
+    "poker-hands": "^1.0.2",
     "puppeteer": "^24.6.0"
   }
 }
